@@ -1,9 +1,5 @@
 # Soundtrack: Youcognito Theme
 
-{% hint style="warning" %}
-🟡 **Coming soon (rolling out).** The in-app soundtrack player is being deployed to the live app now. See [What's live right now](../getting-started/whats-live.md).
-{% endhint %}
-
 Youcognito has its own theme song, made by Youcog.
 
 | | **Youcognito Theme** | **Youcognito Theme (Remix)** |
@@ -11,7 +7,7 @@ Youcognito has its own theme song, made by Youcog.
 | Cover | ![](../.gitbook/assets/theme-cover.jpg) | ![](../.gitbook/assets/remix-cover.jpg) |
 | Length | 4:12 | 3:20 |
 | Artist | Youcog | Youcog |
-| In the app | Not yet (planned release) | ✅ The app's soundtrack |
+| In the app | Not in the app (release planned) | ✅ The app's soundtrack |
 
 ## Youcognito Theme (original)
 

@@ -2,18 +2,6 @@
 
 What's coming to Youcognito. Items here are **planned**, not promises, and have no fixed dates. For what's already shipped, see the [Changelog](changelog.md).
 
-## Rolling out now
-
-These are finished and being deployed to the live app. See [What's live right now](../getting-started/whats-live.md).
-
-* Top banner and the interactive ghost with speech-bubble tips and real-buy slides
-* Quick tiles: Run, Music, Hold 10M, Faucet and the YouTube Short
-* Your own ghost picture
-* The soundtrack player with *Youcognito Theme (Remix)*
-* The 100k listen boost
-* Privacy and terms pages and a site footer
-* Bigger, easier-to-read text on phones
-
 ## Planned
 
 | Idea | What it means |

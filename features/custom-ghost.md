@@ -1,9 +1,5 @@
 # Your own ghost picture
 
-{% hint style="warning" %}
-🟡 **Coming soon (rolling out).** This feature is finished and being deployed to the live app now. See [What's live right now](../getting-started/whats-live.md).
-{% endhint %}
-
 Make the ghost yours. Swap Youcog's face for your Farcaster profile picture or any image.
 
 ![The Change ghost menu](../.gitbook/assets/change-ghost-menu.png)

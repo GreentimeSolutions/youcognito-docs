@@ -1,9 +1,5 @@
 # Privacy and terms
 
-{% hint style="warning" %}
-🟡 **Coming soon (rolling out).** The privacy and terms pages and the site footer are being deployed to the live app now. See [What's live right now](../getting-started/whats-live.md).
-{% endhint %}
-
 Youcognito has short, plain-English **Privacy** and **Terms** pages, linked from the footer on every page:
 
 * [youcognito.vercel.app/privacy](https://youcognito.vercel.app/privacy)

@@ -1,9 +1,5 @@
 # The 100k listen boost
 
-{% hint style="warning" %}
-🟡 **Coming soon (rolling out).** The listen boost is finished and being deployed to the live app now. See [What's live right now](../getting-started/whats-live.md).
-{% endhint %}
-
 Listen to the whole **Youcognito Theme (Remix)** (3:20) and today's faucet claim pays **100,000 YOUCOG**, whichever amount you pick.
 
 ![Boost unlocked](../.gitbook/assets/listen-boost-unlocked.png)

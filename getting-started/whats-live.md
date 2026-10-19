@@ -2,7 +2,9 @@
 
 Youcognito ships often. This page shows what you can use on [youcognito.vercel.app](https://youcognito.vercel.app) today, and what's on its way.
 
-_Last checked: October 18, 2026._
+✅ Live means it's on the live app. 🟡 Coming soon means it's finished and on its way.
+
+_Last checked: October 18, 2026, 7:30 PM Central (CDT)._
 
 | Feature | Status |
 | --- | --- |
@@ -17,14 +19,15 @@ _Last checked: October 18, 2026._
 | YOUCOG art (FLUX) and Grok Voice | ✅ Live (limited daily spots) |
 | Halloween theme | ✅ Live |
 | Youcognito Run game card | ✅ Live |
-| Top banner and interactive ghost with speech-bubble tips | 🟡 Coming soon (rolling out) |
-| Real-buy slides in the speech bubble | 🟡 Coming soon (rolling out) |
-| Quick tiles (Run, Music, Hold 10M, Faucet, Short) | 🟡 Coming soon (rolling out) |
-| Your own ghost picture | 🟡 Coming soon (rolling out) |
-| Soundtrack player (Youcognito Theme (Remix)) | 🟡 Coming soon (rolling out) |
-| 100k listen boost | 🟡 Coming soon (rolling out) |
-| Privacy and terms pages, site footer | 🟡 Coming soon (rolling out) |
-| Bigger, easier-to-read text on phones | 🟡 Coming soon (rolling out) |
+| Top banner and interactive ghost with speech-bubble tips | ✅ Live |
+| Real-buy slides in the speech bubble | ✅ Live |
+| Quick tiles (Run, Music, Hold 10M, Faucet, Short) | ✅ Live |
+| Your own ghost picture | ✅ Live |
+| Soundtrack player (Youcognito Theme (Remix)) | ✅ Live |
+| 100k listen boost | ✅ Live |
+| Privacy and terms pages, site footer | ✅ Live |
+| Bigger, easier-to-read text on phones | ✅ Live |
+| "Open Youcognito" button and research-first description in the Farcaster app listing | 🟡 Coming soon (rolling out) |
 
 ## Planned
 

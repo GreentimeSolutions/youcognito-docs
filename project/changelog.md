@@ -2,15 +2,19 @@
 
 User-facing changes to Youcognito, newest first. Dates are in US Central time.
 
-Entries marked 🟡 are finished but still rolling out to the live app. See [What's live right now](../getting-started/whats-live.md).
+Entries marked 🟡 are finished but still rolling out to the live app. Everything else is live. See [What's live right now](../getting-started/whats-live.md).
 
 ## October 18, 2026
 
 **🟡 Rolling out**
 
+* **Farcaster app listing:** the launch button reads **Open Youcognito**, with a research-first description.
+
+**✅ Live**
+
 * **Easier to read:** bigger text throughout, so nothing on phones is tiny.
 * **Better share previews:** the home page and the privacy and terms pages each get their own link preview.
-* **Privacy and terms pages** in plain English, plus a site footer with Privacy, Terms, Contact, X, GitHub and Linktree links on every page. Softer, clearer wording on the faucet and the Farcaster button (**Open Youcognito**).
+* **Privacy and terms pages** in plain English, plus a site footer with Privacy, Terms, Contact, X, GitHub and Linktree links on every page. Softer, clearer wording on the faucet and the Farcaster cast button (**Open Youcognito**).
 * **Final soundtrack:** the app now plays the finished *Youcognito Theme (Remix)* (3:20) with CD-style skips throughout, extra verses and doo-wop backups.
 * **Phones:** fixed the page being cut off on the right edge on narrow screens.
 * **Clearer price:** "Get 10M YOUCOG (about $1)" on the buy button, and "(about $1)" on the Deep Mission tip and lock card.
@@ -19,9 +23,6 @@ Entries marked 🟡 are finished but still rolling out to the live app. See [Wha
 * **Interactive ghost:** a speech bubble with tips and real buys, a little ghost that flies to each feature and nods, square quick tiles (Run, Music, Hold 10M, Faucet, YouTube Short), and **Change ghost** to use your Farcaster pfp or upload your own (stays on your device).
 * **Soundtrack:** Youcog's own *Youcognito Theme*, made in code, as an optional background track (off until you tap it).
 * **Top banner** with an animated spy ghost.
-
-**✅ Live**
-
 * **Youcognito Run:** a **Play Youcognito Run** card for the Remix game.
 * **Halloween theme:** drifting ghosts, purple fog, spooky headers, a haunted claim button, ghosts and bats when you claim, burn static, a jack-o'-lantern, cobwebs, candle glow and a glowing moon.
 

@@ -1,9 +1,5 @@
 # The ghost banner and quick tiles
 
-{% hint style="warning" %}
-🟡 **Coming soon (rolling out).** This feature is finished and being deployed to the live app now. See [What's live right now](../getting-started/whats-live.md).
-{% endhint %}
-
 The top of the home screen belongs to **Youcog**, the spy ghost. It talks, points at things, and shows real buys.
 
 ![The ghost, its speech bubble and the quick tiles](../.gitbook/assets/ghost-stage.png)

@@ -23,7 +23,7 @@ You ask **Youcog**, the spy ghost, a question. Youcog reads the web for you in *
 | 🎮 **Youcognito Run** | A quick browser game. [Play it](https://remix.gg/g/youcognito-run) |
 
 {% hint style="info" %}
-Some newer features (the ghost banner, the soundtrack player, the listen boost, and the privacy and terms pages) are **rolling out right now**. See [What's live right now](getting-started/whats-live.md).
+New on October 18: the interactive ghost, the soundtrack player, the 100k listen boost, privacy and terms pages, and bigger text. See [What's live right now](getting-started/whats-live.md) and the [Changelog](project/changelog.md).
 {% endhint %}
 
 ## Start here

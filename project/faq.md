@@ -43,7 +43,7 @@ Yes, as long as it's exactly **youcognito.vercel.app** (or comes from our Linktr
 
 ### How much can I claim?
 
-420, 1,111 or 6,969 YOUCOG a day, up to 1.5x with a streak, or 100,000 with the listen boost. See [Daily faucet](../features/faucet.md).
+840, 2,222 or 13,938 YOUCOG a day, up to 1.5x with a streak, or 100,000 with the listen boost. See [Daily faucet](../features/faucet.md).
 
 ### When does the day reset?
 

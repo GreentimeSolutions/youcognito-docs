@@ -45,7 +45,7 @@ public/                   images, audio, robots.txt, sitemap.xml
 
 `claimFromFaucet` in `lib/youcog/faucet.server.ts`:
 
-1. Validates the amount (420 / 1,111 / 6,969) and address.
+1. Validates the amount (840 / 2,222 / 13,938; the old 420 / 1,111 / 6,969 are still accepted and paid at 2x) and address.
 2. Refuses if no shared database is configured in production (anti-drain needs one).
 3. Computes the streak from past **sent** claims (by FID in the Mini App, by address on web) and applies 1.25x (day 3+) or 1.5x (day 7+).
 4. Checks for a verified listen today, and picks the amount server-side (`pickClaimAmount`).

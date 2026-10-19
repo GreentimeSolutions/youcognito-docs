@@ -17,7 +17,7 @@ You ask **Youcog**, the spy ghost, a question. Youcog reads the web for you in *
 | 🔎 **Research privately** | Ask a question, get a short brief with sources. Pages are read for you, not by your browser. [Learn more](features/private-research.md) |
 | 🔥 **Burn it** | One tap wipes the session from memory. [Learn more](features/burn.md) |
 | 🕵️ **Deep Mission** | Hold 10M YOUCOG (about $1) for longer reports with a risk score. [Learn more](features/deep-mission.md) |
-| 🚰 **Daily faucet** | Claim 420, 1,111 or 6,969 YOUCOG once a day, with streak bonuses. [Learn more](features/faucet.md) |
+| 🚰 **Daily faucet** | Claim 840, 2,222 or 13,938 YOUCOG once a day, with streak bonuses. [Learn more](features/faucet.md) |
 | 🎧 **Listen boost** | Listen to the full *Youcognito Theme (Remix)* to boost today's claim to 100,000 YOUCOG. [Learn more](features/listen-boost.md) |
 | 👻 **The ghost** | An interactive ghost with tips, real buys and quick tiles. Swap in your own picture. [Learn more](features/ghost-banner.md) |
 | 🎮 **Youcognito Run** | A quick browser game. [Play it](https://remix.gg/g/youcognito-run) |

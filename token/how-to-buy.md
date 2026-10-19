@@ -2,7 +2,7 @@
 
 ## Free: the daily faucet
 
-Claim 420, 1,111 or 6,969 YOUCOG every day at the [faucet](../features/faucet.md). Build a streak for up to 1.5x, or [listen to the remix](../features/listen-boost.md) to boost a claim to 100,000.
+Claim 840, 2,222 or 13,938 YOUCOG every day at the [faucet](../features/faucet.md). Build a streak for up to 1.5x, or [listen to the remix](../features/listen-boost.md) to boost a claim to 100,000.
 
 ## Buy on Bankr
 

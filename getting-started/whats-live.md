@@ -11,7 +11,7 @@ _Last checked: October 19, 2026, 1:35 PM Central (CDT)._
 | Private research and sealed tabs | ✅ Live |
 | Burn your session | ✅ Live |
 | Deep Mission (hold 10M YOUCOG) | ✅ Live |
-| Daily faucet with streak bonuses | ✅ Live |
+| Daily faucet with streak bonuses (840 / 2,222 / 13,938 a day, doubled Oct 19, 2026) | ✅ Live |
 | Give feedback, earn 1M YOUCOG (once per person) | ✅ Live |
 | One-tap "Get 10M YOUCOG" button | ✅ Live |
 | Leaderboard and public stats page | ✅ Live |

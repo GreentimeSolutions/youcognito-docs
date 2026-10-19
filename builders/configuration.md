@@ -16,7 +16,7 @@ Youcognito is configured with environment variables (secrets) and a few constant
 | `FARCASTER_DOMAIN` | Override the domain used to verify Quick Auth tokens. | No |
 | `BASE_RPC_URL` | Custom Base RPC (defaults to the public Base RPC). | Maybe (paid RPC URLs often contain a key) |
 | `FAUCET_DAILY_CAP` | Max faucet claims per UTC day. | No |
-| `FAUCET_DAILY_TOKEN_BUDGET` | Max YOUCOG per UTC day, boosts included (default 250,000). | No |
+| `FAUCET_DAILY_TOKEN_BUDGET` | Max YOUCOG per UTC day, boosts included (default 500,000). | No |
 | `HOLDER_MIN_YOUCOG` | Deep Mission threshold (default 10,000,000). | No |
 | `RCST_CLAIM_AMOUNT`, `RCST_DAILY_CAP` | $RCST quote-cast amount (default 1,111) and daily cap. | No |
 | `IMAGE_PER_USER_DAILY`, `IMAGE_GLOBAL_DAILY` | Art maker limits (defaults 1 and 10). | No |

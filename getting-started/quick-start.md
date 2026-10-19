@@ -20,7 +20,7 @@ Not sure what to ask? Try a suggestion, like *"What is the YOUCOG token on Base?
 
 ## 3. Claim your daily YOUCOG
 
-Open **Daily YOUCOG faucet**, enter your Base address (or use your connected wallet in Farcaster), pick **420**, **1,111** or **6,969**, and tap **Claim**. Come back tomorrow to build a streak. See [Daily faucet and streaks](../features/faucet.md).
+Open **Daily YOUCOG faucet**, enter your Base address (or use your connected wallet in Farcaster), pick **840**, **2,222** or **13,938**, and tap **Claim**. Come back tomorrow to build a streak. See [Daily faucet and streaks](../features/faucet.md).
 
 ## 4. Burn when you're done
 

@@ -18,7 +18,7 @@ Listen to the whole **Youcognito Theme (Remix)** (3:20) and today's faucet claim
 * **Server-verified.** The server starts a timer when you press play and only accepts the listen once the full song length has passed (with a few seconds of slack). It never trusts a number sent by your device. A listen has to be finished within 15 minutes after the song ends, or it expires and you start again.
 * **Flat amount.** The boost replaces your normal amount. Streak bonuses aren't added on top of the 100,000.
 * **Same person, same day.** The listen counts for the address you entered (or your Farcaster account), and the normal faucet rules still apply: one claim per day.
-* **Daily budget.** The boost counts toward the faucet's **250,000 YOUCOG daily budget**. If not enough is left today, your claim pays the normal amount instead.
+* **Daily budget.** The boost counts toward the faucet's **500,000 YOUCOG daily budget**. If not enough is left today, your claim pays the normal amount instead.
 * **Balance floor.** If the faucet wallet would drop below **2,000,000 YOUCOG**, boosted claims fall back to the normal amount so the faucet doesn't run dry.
 * **Fair use.** Up to 30 listen starts per person per day.
 

@@ -22,7 +22,7 @@ All responses are JSON unless noted. "Quick Auth" means a Farcaster Quick Auth t
 
 | Method and path | Body | Notes |
 | --- | --- | --- |
-| `POST /api/fid-claim` | `{ address, amount }` | Mini App faucet claim. **Quick Auth required.** `amount` is 420, 1111 or 6969. |
+| `POST /api/fid-claim` | `{ address, amount }` | Mini App faucet claim. **Quick Auth required.** `amount` is 840, 2222 or 13938 (legacy 420, 1111 and 6969 are accepted and paid at 2x). |
 | `POST /api/listen/start` | `{ address?, source? }` | Starts a listen session. Quick Auth in the Mini App, or `address` on web. Returns a session id. |
 | `POST /api/listen/finish` | `{ address?, sessionId, playedSeconds? }` | Finishes a listen. Accepted only after the song length has really passed on the server clock. |
 | `POST /api/listen/status` | `{ address? }` | `{ unlocked, used }` for today. |

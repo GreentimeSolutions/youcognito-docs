@@ -25,7 +25,7 @@ YOUCOG launched via **@bankr** and **@deployer**.
 
 ## What YOUCOG is used for today
 
-* **Daily faucet:** 420, 1,111 or 6,969 a day, with streak bonuses. See [Daily faucet](../features/faucet.md).
+* **Daily faucet:** 840, 2,222 or 13,938 a day, with streak bonuses. See [Daily faucet](../features/faucet.md).
 * **Listen boost:** a full listen of the remix boosts a claim to 100,000. See [Listen boost](../features/listen-boost.md).
 * **Deep Mission:** hold 10,000,000 YOUCOG (about $1) to unlock longer reports.
 * **Holder badge** on the leaderboard.

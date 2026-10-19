@@ -8,7 +8,7 @@ Claim a little YOUCOG on Base once a day. Claim on back-to-back days to earn a s
 
 1. Open **Daily YOUCOG faucet**.
 2. Enter your **Base address** (starts with `0x`). In the Farcaster Mini App your connected wallet is filled in; tap **Paste a different address** to use another one.
-3. Pick an amount: **420**, **1,111** or **6,969** YOUCOG.
+3. Pick an amount: **840**, **2,222** or **13,938** YOUCOG (doubled on October 19, 2026).
 4. Tap **Claim**. The YOUCOG is sent to you on Base, and you get a **View on Basescan** link.
 5. Optional: tap **Share to Farcaster** to show off your streak.
 
@@ -18,11 +18,11 @@ It's free for you. The faucet pays the network fee.
 
 Claim on consecutive days to multiply your claim:
 
-| Streak | Bonus | 420 becomes | 1,111 becomes | 6,969 becomes |
+| Streak | Bonus | 840 becomes | 2,222 becomes | 13,938 becomes |
 | --- | --- | --- | --- | --- |
-| Day 1–2 | 1x | 420 | 1,111 | 6,969 |
-| Day 3–6 | 1.25x | 525 | 1,389 | 8,711 |
-| Day 7+ | 1.5x | 630 | 1,667 | 10,454 |
+| Day 1–2 | 1x | 840 | 2,222 | 13,938 |
+| Day 3–6 | 1.25x | 1,050 | 2,778 | 17,423 |
+| Day 7+ | 1.5x | 1,260 | 3,333 | 20,907 |
 
 * Days are **UTC days**. A new day starts at midnight UTC, which is **7 PM Central (CDT)** right now.
 * **Missing a day resets** your streak to day 1.
@@ -32,7 +32,7 @@ Claim on consecutive days to multiply your claim:
 ## The rules
 
 * **One claim per day.** On the web: one per address and one per internet connection. In Farcaster: one per Farcaster account.
-* **Daily limits.** The faucet has a daily number of claims and a daily YOUCOG budget (currently 250,000 YOUCOG a day, boosts included). When either runs out, it says so. Come back after midnight UTC.
+* **Daily limits.** The faucet has a daily number of claims and a daily YOUCOG budget (currently 500,000 YOUCOG a day, boosts included). When either runs out, it says so. Come back after midnight UTC.
 * **While supplies last.** If the faucet wallet runs low on YOUCOG or on ETH for fees, it pauses until it's topped up.
 * **Play fair.** No bots, scripts or multiple accounts. See the [Terms](privacy-and-terms.md).
 

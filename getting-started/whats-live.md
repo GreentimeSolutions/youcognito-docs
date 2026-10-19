@@ -4,7 +4,7 @@ Youcognito ships often. This page shows what you can use on [youcognito.vercel.a
 
 ✅ Live means it's on the live app. 🟡 Coming soon means it's finished and on its way.
 
-_Last checked: October 18, 2026, 7:30 PM Central (CDT)._
+_Last checked: October 18, 2026, 10:10 PM Central (CDT)._
 
 | Feature | Status |
 | --- | --- |
@@ -25,9 +25,10 @@ _Last checked: October 18, 2026, 7:30 PM Central (CDT)._
 | Your own ghost picture | ✅ Live |
 | Soundtrack player (Youcognito Theme (Remix)) | ✅ Live |
 | 100k listen boost | ✅ Live |
+| Remix on SoundCloud, listen boost through the SoundCloud player | ✅ Live |
 | Privacy and terms pages, site footer | ✅ Live |
 | Bigger, easier-to-read text on phones | ✅ Live |
-| "Open Youcognito" button and research-first description in the Farcaster app listing | 🟡 Coming soon (rolling out) |
+| "Open Youcognito" button and research-first description in the Farcaster app listing | ✅ Live |
 
 ## Planned
 
@@ -37,6 +38,6 @@ These are ideas in design. They are not live and have no date yet. See the [Road
 * Staking
 * Boosters and multipliers
 * Tasks
-* Soundtrack release on SoundCloud
+* The original theme on SoundCloud
 * A custom domain
 * The nito DAO and $NITO governance token

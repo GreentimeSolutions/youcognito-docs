@@ -6,12 +6,11 @@ Entries marked 🟡 are finished but still rolling out to the live app. Everythi
 
 ## October 18, 2026
 
-**🟡 Rolling out**
-
-* **Farcaster app listing:** the launch button reads **Open Youcognito**, with a research-first description.
-
 **✅ Live**
 
+* **Remix on SoundCloud:** *Youcognito Theme (Remix)* v3.4 (3:20) is out on [SoundCloud](https://soundcloud.com/greentime1/youcognito-theme-remix).
+* **Listen boost plays through SoundCloud:** the listen box on the faucet now uses the SoundCloud player, so your boost listen also counts as a real play there. Enter your address first, then press play. Background music pauses while it plays.
+* **Farcaster app listing:** the launch button reads **Open Youcognito**, with a research-first description. Farcaster may take a little while to show it everywhere.
 * **Easier to read:** bigger text throughout, so nothing on phones is tiny.
 * **Better share previews:** the home page and the privacy and terms pages each get their own link preview.
 * **Privacy and terms pages** in plain English, plus a site footer with Privacy, Terms, Contact, X, GitHub and Linktree links on every page. Softer, clearer wording on the faucet and the Farcaster cast button (**Open Youcognito**).

@@ -10,7 +10,7 @@ What's coming to Youcognito. Items here are **planned**, not promises, and have 
 | 🔒 **Staking** | Stake YOUCOG for rewards or perks. |
 | ⚡ **Boosters and multipliers** | More ways to boost faucet claims, on top of streaks and the listen boost. |
 | ✅ **Tasks** | Do simple tasks (share, listen, play) to earn rewards. |
-| 🎵 **SoundCloud release** | *Youcognito Theme* and the *Remix* on SoundCloud, with the listen boost playing through SoundCloud. |
+| 🎵 **Original theme on SoundCloud** | The original *Youcognito Theme* on SoundCloud too. The *Remix* is already out, and the listen boost plays through it. |
 | 🌐 **Custom domain** | A Youcognito domain of its own, instead of a shared vercel.app address. |
 | 🏛️ **nito DAO and $NITO** | Community governance with $NITO as the voting token, while $YOUCOG stays the trading and staking token. **In design, not launched, no promised value.** See [nito DAO and $NITO](../token/nito-dao.md). |
 

@@ -7,7 +7,7 @@ Listen to the whole **Youcognito Theme (Remix)** (3:20) and today's faucet claim
 ## How it works
 
 1. Open the **Daily YOUCOG faucet** and enter your Base address (in Farcaster you're already signed in).
-2. In the listen box, tap play. The song starts from the top.
+2. In the listen box, press play on the **SoundCloud player**.
 3. Listen to the end. A progress bar shows how far you are. Skipping ahead doesn't count.
 4. When the song ends, the server checks the listen. You'll see **Boost unlocked**.
 5. Tap **Claim 100,000 YOUCOG (boosted)**.
@@ -25,5 +25,5 @@ Listen to the whole **Youcognito Theme (Remix)** (3:20) and today's faucet claim
 If your phone switches networks mid-song, that's fine on the web: the listen is tied to your address, not your connection.
 
 {% hint style="info" %}
-When the song is published on SoundCloud, the boost will play through the SoundCloud player so your listen also counts as a real play there. Until then it plays from the app.
+The boost plays through the [SoundCloud player](https://soundcloud.com/greentime1/youcognito-theme-remix), so your listen also counts as a real play on SoundCloud. Enter your address before you press play, or the listen won't start. The app's background music pauses while SoundCloud plays.
 {% endhint %}

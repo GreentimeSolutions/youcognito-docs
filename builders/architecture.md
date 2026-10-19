@@ -62,7 +62,8 @@ Web claims go through the `claimFaucet` server function (with a honeypot field);
 * `POST /api/listen/finish` accepts it only if **wall-clock time since start ≥ song length − 3 s** and within 15 minutes after the song ends. The song length lives in `constants/listen.ts` (`LISTEN_SONG_SECONDS`, currently 200) and is the only duration the server trusts.
 * Identity is `fid:<fid>` in the Mini App or `web:<address>` on web (not IP, so phone network switches don't break a listen).
 * At claim time a completed, unused listen upgrades the claim to `LISTEN_BONUS_AMOUNT` (100,000), unless the faucet would drop below `LISTEN_MIN_FAUCET_BALANCE` (2,000,000) or the daily budget is short.
-* The player is the local MP3 by default; set `SOUNDCLOUD_TRACK_URL` to switch to the SoundCloud widget.
+* The player is the SoundCloud widget: `SOUNDCLOUD_TRACK_URL` in `constants/listen.ts` (a code constant, not an env var) points at https://soundcloud.com/greentime1/youcognito-theme-remix. Its Widget API events drive the flow: `PLAY` opens the session (and pauses the background MP3), `PLAY_PROGRESS` adds up forward playback only (jumps over 1.5 s, like seeking ahead, don't count) for the progress bar, and `FINISH` sends the finish once played time ≥ song length − 3 s. The server still checks only wall-clock time.
+* Set `SOUNDCLOUD_TRACK_URL` to `""` to fall back to the local MP3 (`public/audio/youcog-theme-remix.mp3`, 200.18 s).
 
 ### Holder perks (Deep Mission)
 

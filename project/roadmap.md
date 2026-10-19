@@ -8,11 +8,11 @@ What's live and what's coming. Items under **Next**, **Later** and **Maybe** are
 * **Deep Mission** for holders who want a longer, sourced report
 * **Daily YOUCOG faucet** with streaks
 * **Listen boost** through the [Youcognito Theme (Remix) on SoundCloud](https://soundcloud.com/greentime1/youcognito-theme-remix)
+* **Feedback survey:** 10 quick questions, 1,000,000 YOUCOG once per person (faucet claimers, up to 10 a day). See [Give feedback, earn YOUCOG](../features/feedback-survey.md)
 
 ## Next (the next few weeks)
 
 * **Forge MVP:** three tutorial quests (first claim, first swap, approve and forge), free soulbound badges, and cheap Streak Shields and Deep Mission Passes, tested on testnet first
-* **Feedback form** with a YOUCOG reward for people who fill it out
 * **Token info** on Basescan and in the Base app / Coinbase Wallet
 
 ## Later (through the nito DAO)

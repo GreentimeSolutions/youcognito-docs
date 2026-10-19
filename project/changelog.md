@@ -6,8 +6,9 @@ Entries marked 🟡 are finished but still rolling out to the live app. Everythi
 
 ## October 19, 2026
 
+* **Give feedback, earn YOUCOG (live):** a 10-question survey inside the app (about 3 minutes) pays **1,000,000 YOUCOG** once per person, from the faucet wallet. One per Farcaster account and per wallet, you need one faucet claim first, and it's limited to **10 rewards a day** across everyone. Tap the **Give feedback, earn YOUCOG** tile. See [Give feedback, earn YOUCOG](../features/feedback-survey.md).
 * **nito DAO governance plan (v2) published:** proposed Phase 1 uses non-transferable nito voting points (database + Snapshot api strategy, daily public snapshot and merkle root, no contract). Phase 1 has no staking. Proposed split: 100M max — 25% tasks, 20% faucet, 10% contributors (vested), 5% reserve, 40% reserved unminted for Phase 2 until a 66% vote. Voting rules, Safe execution and a 90-day public team veto are documented. **Not live; lawyer review pending; nito is votes only (no value, profit or yield).** See [nito DAO](../token/nito-dao.md).
-* **Roadmap updated:** the docs roadmap now has four sections — **Now (live)**, **Next** (Forge MVP, feedback form, token listings), **Later** (nito DAO Phase 1, Phase 2 holdings earn, Forge packs, POAPs, cosmetics, holder bundles, x402), and **Maybe** (Paymaster, card onramp). See [Roadmap](roadmap.md).
+* **Roadmap updated:** the docs roadmap now has four sections — **Now (live)**, **Next** (Forge MVP, feedback form, token listings; the feedback form is now live), **Later** (nito DAO Phase 1, Phase 2 holdings earn, Forge packs, POAPs, cosmetics, holder bundles, x402), and **Maybe** (Paymaster, card onramp). See [Roadmap](roadmap.md).
 
 ## October 18, 2026
 

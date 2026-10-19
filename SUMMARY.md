@@ -16,6 +16,7 @@
 * [Deep Mission (holders)](features/deep-mission.md)
 * [Daily YOUCOG faucet and streaks](features/faucet.md)
 * [The 100k listen boost](features/listen-boost.md)
+* [Give feedback, earn YOUCOG](features/feedback-survey.md)
 * [The ghost banner and quick tiles](features/ghost-banner.md)
 * [Your own ghost picture](features/custom-ghost.md)
 * [Soundtrack: Youcognito Theme](features/soundtrack.md)

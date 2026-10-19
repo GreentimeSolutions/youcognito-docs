@@ -4,7 +4,7 @@ Youcognito ships often. This page shows what you can use on [youcognito.vercel.a
 
 ✅ Live means it's on the live app. 🟡 Coming soon means it's finished and on its way.
 
-_Last checked: October 18, 2026, 10:10 PM Central (CDT)._
+_Last checked: October 19, 2026, 1:35 PM Central (CDT)._
 
 | Feature | Status |
 | --- | --- |
@@ -12,6 +12,7 @@ _Last checked: October 18, 2026, 10:10 PM Central (CDT)._
 | Burn your session | ✅ Live |
 | Deep Mission (hold 10M YOUCOG) | ✅ Live |
 | Daily faucet with streak bonuses | ✅ Live |
+| Give feedback, earn 1M YOUCOG (once per person) | ✅ Live |
 | One-tap "Get 10M YOUCOG" button | ✅ Live |
 | Leaderboard and public stats page | ✅ Live |
 | Support Youcog (tips) | ✅ Live |

@@ -4,6 +4,10 @@ User-facing changes to Youcognito, newest first. Dates are in US Central time.
 
 Entries marked 🟡 are finished but still rolling out to the live app. Everything else is live. See [What's live right now](../getting-started/whats-live.md).
 
+## October 19, 2026
+
+* **Roadmap updated:** the docs roadmap now has four sections — **Now (live)**, **Next** (Forge MVP, feedback form, token listings), **Later** (nito DAO, staking, Forge packs, POAPs, cosmetics, holder bundles, x402), and **Maybe** (Paymaster, card onramp). See [Roadmap](roadmap.md).
+
 ## October 18, 2026
 
 **✅ Live**

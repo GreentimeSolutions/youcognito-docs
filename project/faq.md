@@ -71,9 +71,9 @@ No. The boost pays a flat 100,000 YOUCOG instead of your normal amount. See [The
 
 Each buy also logs two tiny fee swaps in the same transaction, which charts show as "sells". And because YOUCOG trades against ETH, its dollar price moves when ETH moves. See [Reading the chart](../token/reading-the-chart.md).
 
-### What is $NITO?
+### What is nito / $NITO?
 
-A **planned** governance token for the nito DAO. It is in design and **not launched**. There's no $NITO to buy or claim. See [nito DAO and $NITO](../token/nito-dao.md).
+**Proposed voting points** for the nito DAO, not a tradable token. The plan is not live: there is nothing to buy or claim, and **nito has no dollar value, profit or yield**. A lawyer review is still pending. See [nito DAO](../token/nito-dao.md).
 
 ### Is YOUCOG an investment?
 

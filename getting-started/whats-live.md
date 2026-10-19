@@ -35,9 +35,9 @@ _Last checked: October 18, 2026, 10:10 PM Central (CDT)._
 These are ideas in design. They are not live and have no date yet. See the [Roadmap](../project/roadmap.md).
 
 * NFT ghost accessories
-* Staking
+* YOUCOG staking / holdings-based nito earn (Phase 2, not built)
 * Boosters and multipliers
 * Tasks
 * The original theme on SoundCloud
 * A custom domain
-* The nito DAO and $NITO governance token
+* The nito DAO and nito voting points (proposed; votes only, not live)

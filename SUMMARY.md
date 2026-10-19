@@ -33,7 +33,7 @@
 * [$YOUCOG](token/youcog.md)
 * [How to get YOUCOG](token/how-to-buy.md)
 * [Reading the chart](token/reading-the-chart.md)
-* [nito DAO and $NITO (planned)](token/nito-dao.md)
+* [nito DAO and nito voting points (proposed)](token/nito-dao.md)
 
 ## Project
 

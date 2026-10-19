@@ -32,8 +32,9 @@ YOUCOG launched via **@bankr** and **@deployer**.
 
 ## Planned
 
-* **Staking**, **boosters and multipliers**, and **tasks**. See the [Roadmap](../project/roadmap.md).
-* YOUCOG stays the **trading and staking** token. Voting would be handled by a separate, planned governance token, **$NITO**. See [nito DAO and $NITO](nito-dao.md).
+* **Boosters, multipliers, and tasks** through the Forge and related work. See the [Roadmap](../project/roadmap.md).
+* YOUCOG stays the **trading** token, and later the token used for **staking / holdings-based** earning. **YOUCOG staking is not built yet.**
+* **Voting** would use separate **nito voting points** (proposed, not live, votes only, no promised value). See [nito DAO](nito-dao.md).
 
 ## Project wallets
 

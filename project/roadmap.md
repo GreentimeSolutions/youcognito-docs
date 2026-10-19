@@ -17,8 +17,9 @@ What's live and what's coming. Items under **Next**, **Later** and **Maybe** are
 
 ## Later (through the nito DAO)
 
-* **$NITO** governance voting (in design, not launched, no promised value). See [nito DAO and $NITO](../token/nito-dao.md)
-* **YOUCOG staking** for rewards or perks
+* **nito DAO Phase 1** (proposed, not live, lawyer review pending): non-transferable **nito voting points** earned from faucet streaks, reviewed tasks and a vested contributor share; Snapshot on Base; no nito contract. See [nito DAO](../token/nito-dao.md)
+* **Phase 2 holdings-based nito earn** (opt-in, no custody, not yield): unlocks only after a 66% vote on the reserved bucket
+* **YOUCOG staking / lock** only if the product later needs a real lock (separate from Phase 2 holdings earn)
 * **Forge boosters and studio packs**
 * **POAPs** for finishing quests
 * **Ghost pfp cosmetics** (hats, glasses, outfits and other accessories)

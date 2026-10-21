@@ -1,6 +1,6 @@
 # Live stats on BuildBoard
 
-Youcognito is tracked on **BuildBoard** by Builder Circle, a public board that ranks Base apps by onchain activity tagged with each app's Base Builder Code. Our builder code is **bc_q72p8qc9**.
+Youcognito is tracked on **BuildBoard** by Builder Circle, a public board that ranks Base apps by onchain activity tagged with the Base Builder Code of each app. Our builder code is **bc_q72p8qc9**.
 
 {% embed url="https://builder-circle.xyz/widget/bc_q72p8qc9?window=7d&variant=wide" %}
 BuildBoard live stats card for Youcognito, last 7 days

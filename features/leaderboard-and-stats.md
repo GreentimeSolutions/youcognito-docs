@@ -26,4 +26,4 @@ Anyone can check the faucet wallet on Basescan, so the numbers are verifiable.
 
 ## BuildBoard
 
-Youcognito is also ranked on Builder Circle's BuildBoard by transactions tagged with our builder code. See [Live stats on BuildBoard](../project/live-stats.md).
+Youcognito is also ranked on BuildBoard by Builder Circle by transactions tagged with our builder code. See [Live stats on BuildBoard](../project/live-stats.md).

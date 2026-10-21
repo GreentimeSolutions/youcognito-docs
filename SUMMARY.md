@@ -40,6 +40,7 @@
 
 * [Roadmap](project/roadmap.md)
 * [Changelog](project/changelog.md)
+* [Live stats on BuildBoard](project/live-stats.md)
 * [FAQ](project/faq.md)
 * [Credits](project/credits.md)
 * [Disclaimer / not financial advice](project/disclaimer.md)

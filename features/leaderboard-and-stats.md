@@ -24,6 +24,8 @@ The **Leaderboard** card has two tabs:
 
 Anyone can check the faucet wallet on Basescan, so the numbers are verifiable.
 
+Apps and agents are welcome to read the same numbers from [/api/stats](https://youcognito.vercel.app/api/stats). That is not botting. The response is cached for 60 seconds, so checking more than once a minute gives nothing new.
+
 ## BuildBoard
 
 Youcognito is also ranked on BuildBoard by Builder Circle by transactions tagged with our builder code. See [Live stats on BuildBoard](../project/live-stats.md).

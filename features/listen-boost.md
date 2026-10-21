@@ -20,7 +20,7 @@ Finish the song to unlock a bigger faucet gift today, while supplies last. Liste
 
 * **One boost a day.** Once used, it says so. Come back tomorrow.
 * **Server-verified.** The server starts a timer when you press play and only accepts the listen once the full song length has passed (with a few seconds of slack). It never trusts a number sent by your device. A listen has to be finished within 15 minutes after the song ends, or it expires and you start again.
-* **Flat amount.** The boost replaces your normal amount. Streak bonuses are not added on top of the 100,000.
+* **Flat amount.** The boost is a flat 100,000 YOUCOG that replaces your normal amount. Streak bonuses are not added on top of it, and it only applies when it is bigger than your normal claim with your streak bonus.
 * **Same person, same day.** The listen counts for the address you entered (or your Farcaster account), and the normal faucet rules still apply: one claim per day.
 * **Daily budget.** The boost counts toward the faucet's **500,000 YOUCOG daily budget**. If not enough is left today, your claim falls back to the normal amount.
 * **Balance floor.** If the faucet wallet would drop below **2,000,000 YOUCOG**, boosted claims fall back to the normal amount so the faucet does not run dry.

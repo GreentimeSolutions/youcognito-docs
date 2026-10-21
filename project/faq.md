@@ -47,7 +47,7 @@ A small gift of 840, 2,222 or 13,938 YOUCOG a day while supplies last, up to 1.5
 
 ### When does the day reset?
 
-At midnight UTC. That's 7 PM Central while daylight saving time is on (6 PM in winter).
+At midnight UTC.
 
 ### Why does it say someone on my connection already claimed?
 

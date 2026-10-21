@@ -9,7 +9,7 @@ All responses are JSON unless noted. "Quick Auth" means a Farcaster Quick Auth t
 | Method and path | What it returns |
 | --- | --- |
 | `GET /api/buys` | Up to 10 recent outside buys from the YOUCOG / WETH pool: `{ buys: [{ tokens, usd, from, at, tx }] }`. Cached ~60 s. Empty list on failure. |
-| `GET /api/stats` | Public faucet stats (claims, unique claimers, YOUCOG given, streaks, tips, holders, RCST, Builder Code txs, 30-day chart, faucet wallet balances). |
+| `GET /api/stats` | Public faucet stats (claims, unique claimers, YOUCOG given, streaks, tips, holders, RCST, Builder Code txs, 30-day chart, faucet wallet balances). Cached 60 s. Fine for apps and agents to read. |
 | `GET /api/leaderboard` | `{ claimers, tippers }` for the leaderboard. |
 | `GET /api/streak?address=0x…` | Streak for a web address: `{ streak, claimedToday, nextStreak, nextMultiplier }`. With Quick Auth, returns the FID's streak instead. |
 | `GET /api/holder` | Holder status for a Quick Auth FID or an `x-holder-session` header: `{ holder, verified, balance, min, address }`. |

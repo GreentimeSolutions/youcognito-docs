@@ -28,7 +28,7 @@ Consecutive UTC days add a streak bonus:
 | Day 3–6 | 1.25x | 1,050 | 2,778 | 17,423 |
 | Day 7+ | 1.5x | 1,260 | 3,333 | 20,907 |
 
-* Days are **UTC days**. A new day starts at midnight UTC, which is **7 PM Central (CDT)** right now.
+* Days are **UTC days**. A new day starts at midnight UTC.
 * **Missing a day resets** your streak to day 1.
 * The claim button shows the bonus amount before you claim.
 * In Farcaster your streak follows your Farcaster account. On the web it follows your address.

@@ -1,10 +1,14 @@
 # Reading the chart
 
+{% hint style="warning" %}
+Not financial advice. Prices change and can go to zero. Only spend what you can afford to lose.
+{% endhint %}
+
 The [GeckoTerminal chart](https://www.geckoterminal.com/base/pools/0x0c6b7aac93aed41f6a12b99e44b821388bd4df31f9247288feef741edb135614) for YOUCOG can look strange. Here's why.
 
 ## Why every buy shows tiny "sells"
 
-Open the trade list and you'll often see one buy followed by **two tiny "sells" in the same transaction**, a fraction of a cent each. For a $1 buy they're roughly 0.7% and 0.15% of the size.
+Open the trade list and you'll often see one buy followed by **two tiny "sells" in the same transaction**, a fraction of a cent each. For a typical buy they are roughly 0.7% and 0.15% of the size.
 
 **They're not people selling.** The YOUCOG pool is a Uniswap v4 pool with a Doppler hook, launched through Bankr. When you buy, the pool takes its trading fee and converts part of it inside the same transaction. Chart sites record those fee swaps as separate small "sells".
 

@@ -1,6 +1,6 @@
 # The ghost banner and quick tiles
 
-The top of the home screen belongs to **Youcog**, the spy ghost. It talks, points at things, and shows real buys.
+The top of the home screen belongs to **Youcog**, the spy ghost. It talks, points at things, and shows recent outside buys.
 
 ![The ghost, its speech bubble and the quick tiles](../.gitbook/assets/ghost-stage.png)
 
@@ -14,19 +14,19 @@ Above the big ghost, a speech bubble changes about every 5 seconds. It mixes two
 
 **Tips** about what you can do, for example:
 
-* "Hold 10M YOUCOG (about $1) to unlock Deep Mission."
+* "Hold 10M YOUCOG to unlock Deep Mission."
 * "Check in at the daily YOUCOG faucet."
-* "Listen to the full Youcognito Theme (Remix) to boost today's claim to 100,000 YOUCOG."
+* "Finish the Youcognito Theme (Remix) to unlock a bigger faucet gift today."
 * "Play Youcognito Run." · "Watch the Youcognito Short." · "Turn on the spooky soundtrack."
 * "Burn your session when you're done, no trace."
 
 When a tip shows, a little ghost flies over to that feature, nods twice, and the feature glows. **Tap the bubble** to jump straight to it.
 
-**Buy slides** (marked with a green dot), for example: *"Someone just bought 10.4M YOUCOG ($1.00), 0x1a2b…9f3e, 5m ago"*.
+**Buy slides** (marked with a green dot) show recent on-chain buys by outside wallets, for example: *10.4M YOUCOG, 0x1a2b…9f3e, 5m ago*. They are not a recommendation. Prices change and can go to zero.
 
 * They show **real buys only**, read from GeckoTerminal for the official YOUCOG / WETH pool.
 * **Outside buyers only.** Buys by the project's own wallets (the Youcog agent and faucet wallet, and the donations wallet) are filtered out, so the bubble never shows the team buying from itself.
-* Tiny trades under 5 cents and the fee "sells" inside each buy are ignored (see [Reading the chart](../token/reading-the-chart.md)).
+* Very small trades and the fee "sells" inside each buy are ignored (see [Reading the chart](../token/reading-the-chart.md)).
 * Each buy slide picks one of the latest 10 outside buys. The list refreshes every couple of minutes.
 * Nothing is ever made up. If there are no recent outside buys, you just see tips.
 

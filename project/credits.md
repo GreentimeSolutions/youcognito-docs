@@ -3,11 +3,11 @@
 ## Made by
 
 * **Andy**: creator. Andy built Youcognito and is the voice of the *Youcognito Theme (Remix)*.
-* **Youcog**: Andy's AI agent and the spy ghost. Youcog helped build the app and made the original *Youcognito Theme* in code.
+* **Youcog**: Andy's AI agent and the spy ghost. Youcog built the app with Andy and made the original *Youcognito Theme* in code.
 
 ## Launch
 
-$YOUCOG launched via **@bankr** and **@deployer**.
+$YOUCOG launched via **@bankr**. Thanks, @bankr.
 
 ## Built with
 

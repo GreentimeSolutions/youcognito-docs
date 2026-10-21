@@ -14,9 +14,10 @@ All responses are JSON unless noted. "Quick Auth" means a Farcaster Quick Auth t
 | `GET /api/streak?address=0x…` | Streak for a web address: `{ streak, claimedToday, nextStreak, nextMultiplier }`. With Quick Auth, returns the FID's streak instead. |
 | `GET /api/holder` | Holder status for a Quick Auth FID or an `x-holder-session` header: `{ holder, verified, balance, min, address }`. |
 | `GET /api/image` | Art maker status: `{ enabled, perUser, total, left }`. |
-| `GET /api/rcst-claim?link=…` | Checks a quote-cast link without claiming. |
+| `GET /api/rcst-claim?link=…` | Checks a quote-cast link without claiming (the promotion has ended). |
+| `GET /api/feedback?address=0x…` | Whether this Farcaster account (Quick Auth) or address already sent the survey: `{ done, reward }` (`reward` is the current gift size). |
 | `GET /.well-known/farcaster.json` | Farcaster Mini App manifest (host-aware). |
-| `GET /stats`, `/privacy`, `/terms` | HTML pages. |
+| `GET /stats`, `/privacy`, `/terms`, `/feedback` | HTML pages. |
 
 ## Actions
 
@@ -29,7 +30,8 @@ All responses are JSON unless noted. "Quick Auth" means a Farcaster Quick Auth t
 | `POST /api/holder-nonce` | `{ address }` | Issues a message to sign for web holder verification. |
 | `POST /api/holder-verify` | `{ message, mac, signature }` | Verifies the signature and returns holder status plus a session token. |
 | `POST /api/deep-mission` | `{ mission }` | Holders only (Quick Auth or `x-holder-session`). 2–600 characters. About 20 per holder per 10 minutes. |
-| `POST /api/rcst-claim` | `{ link, address? }` | **Quick Auth required.** Pays $RCST to a Farcaster-verified address. |
+| `POST /api/rcst-claim` | `{ link, address? }` | **Quick Auth required.** Sends $RCST to a Farcaster-verified address (launch promotion, ended). |
+| `POST /api/feedback` | `{ answers, address? }` | Saves survey answers. Quick Auth in the Mini App, or `address` on web. If a gift is available, the faucet wallet sends a one-time thank-you gift. Once per FID, wallet and (on web) connection; small daily cap; counted separately from the faucet daily budget. |
 | `POST /api/tip` | `{ hash }` | Records a tip after verifying the transaction on-chain. Quick Auth optional (links the FID). |
 | `POST /api/tts` | `{ text }` | Returns `audio/mpeg` of the text read by Grok Voice. Daily limits apply. |
 | `POST /api/image` | `{ prompt }` | Makes a FLUX image (3–300 characters). Returns `{ ok, url }`; the URL expires in about 10 minutes. |

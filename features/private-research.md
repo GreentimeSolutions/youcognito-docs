@@ -37,5 +37,5 @@ Some things can't be sealed:
 * If the AI is unavailable, Youcog falls back to a free summary from public sources and says so at the top of the brief.
 
 {% hint style="info" %}
-Want a longer report with more sources and a risk score? That's [Deep Mission](deep-mission.md).
+Want a longer report with more sources and a risk score? That's [Deep Mission](deep-mission.md). Reports are AI-generated research, not financial advice, and can be wrong.
 {% endhint %}

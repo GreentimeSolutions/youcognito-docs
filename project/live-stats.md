@@ -16,7 +16,7 @@ If the card does not load, open the live page: [Youcognito on BuildBoard](https:
 
 ## Why the user count is low
 
-BuildBoard counts the wallet that **sends** each transaction. Every faucet payout is sent from one server wallet, so all of those claims count as a single user, no matter how many people claim. The count only grows when people send transactions from their own wallets, such as swaps or Forge quests once the Forge is live.
+BuildBoard counts the wallet that **sends** each transaction. Every faucet payout is sent from one server wallet, so all of those claims count as a single user, no matter how many people claim. The count only grows when people send transactions from their own wallets, such as tips.
 
 The app has its own stats page with claim counts, streaks and the faucet balance: [youcognito.vercel.app/stats](https://youcognito.vercel.app/stats). See [Leaderboard and stats](../features/leaderboard-and-stats.md).
 

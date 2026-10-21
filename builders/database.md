@@ -10,6 +10,7 @@ Youcognito uses Postgres (Neon in production, PGLite locally). Migrations live i
 | `0005_holders.sql` | `holders`: verified YOUCOG holders (address, FID, balance, method `fid` or `signature`). |
 | `0006_rcst_claims.sql` | `rcst_claims` and `rcst_days`: one $RCST claim per FID (lifetime), per address and per cast, plus a daily cap. |
 | `0007_listens.sql` | `listen_sessions` (one active per identity; `started` / `completed` / `abandoned`; linked to the claim that used it) and `listen_bonus` on claims. |
+| `0008_feedback.sql` | `feedback_responses` (survey answers with FID or address, hashed IP on web, gift status and tx hash; unique per FID, address and IP hash) and `feedback_days` (daily gift counter, separate from the faucet budget). |
 
 `migrations/auth/0001_auth.sql` belongs to the app template's optional sign-in feature, which Youcognito doesn't use.
 

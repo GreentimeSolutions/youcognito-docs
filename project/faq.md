@@ -31,19 +31,19 @@ X sometimes shows **"Warning: this link may be unsafe"** for youcognito.vercel.a
 * Free **vercel.app** addresses are shared by many sites, and scammers have abused some of them, so X's filter is wary of the whole address space.
 * Crypto faucet wording and the same link being posted many times make filters more suspicious.
 
-The app itself is clean: **Google Safe Browsing and Sucuri SiteCheck report no issues.**
+As of October 18, 2026, **Google Safe Browsing and Sucuri SiteCheck reported no issues** for the app. Always check that the address is exactly youcognito.vercel.app.
 
 **What to do:** use **[linktr.ee/youcognito](https://linktr.ee/youcognito)**. It passes X without a warning and links to the app. A custom domain is on the [Roadmap](roadmap.md) as the long-term fix.
 
 ### Is the link safe?
 
-Yes, as long as it's exactly **youcognito.vercel.app** (or comes from our Linktree). Youcognito never asks for your seed phrase or private key. Check the [Official links](../getting-started/official-links.md).
+Check that it is exactly **youcognito.vercel.app** (or comes from our Linktree). As of October 18, 2026, Google Safe Browsing and Sucuri SiteCheck reported no issues. Youcognito never asks for your seed phrase or private key. Check the [Official links](../getting-started/official-links.md).
 
 ## Faucet
 
 ### How much can I claim?
 
-840, 2,222 or 13,938 YOUCOG a day, up to 1.5x with a streak, or 100,000 with the listen boost. See [Daily faucet](../features/faucet.md).
+A small gift of 840, 2,222 or 13,938 YOUCOG a day while supplies last, up to 1.5x with a streak, or 100,000 on a day you finish the listen boost. Amounts can change or stop. See [Daily faucet](../features/faucet.md).
 
 ### When does the day reset?
 
@@ -51,7 +51,7 @@ At midnight UTC. That's 7 PM Central while daylight saving time is on (6 PM in w
 
 ### Why does it say someone on my connection already claimed?
 
-On the web, there's one claim per internet connection per day, so two people on the same Wi-Fi can't both claim. In the Farcaster Mini App the limit is per Farcaster account instead.
+On the web, there's one claim per internet connection per day, so two people on the same Wi-Fi can't both claim. Open Youcognito inside Farcaster instead: there the limit is per Farcaster account.
 
 ### I lost my streak. Why?
 
@@ -59,7 +59,7 @@ A streak needs a claim every UTC day. Missing one resets it to day 1.
 
 ### Does the listen boost stack with my streak?
 
-No. The boost pays a flat 100,000 YOUCOG instead of your normal amount. See [The 100k listen boost](../features/listen-boost.md).
+No. The boost gives a flat 100,000 YOUCOG instead of your normal amount. See [The 100k listen boost](../features/listen-boost.md).
 
 ## Token
 
@@ -71,16 +71,16 @@ No. The boost pays a flat 100,000 YOUCOG instead of your normal amount. See [The
 
 Each buy also logs two tiny fee swaps in the same transaction, which charts show as "sells". And because YOUCOG trades against ETH, its dollar price moves when ETH moves. See [Reading the chart](../token/reading-the-chart.md).
 
-### What is nito / $NITO?
+### What is nito?
 
-**Proposed voting points** for the nito DAO, not a tradable token. The plan is not live: there is nothing to buy or claim, and **nito has no dollar value, profit or yield**. A lawyer review is still pending. See [nito DAO](../token/nito-dao.md).
+**Proposed voting points** for the nito DAO. The plan is not live: there is nothing to buy or claim, and **nito has no monetary value**. nito has no ticker and is not a token. Anyone offering $NITO is not us. Details will be published after legal review. See [nito DAO](../token/nito-dao.md).
 
 ### Is YOUCOG an investment?
 
-No. It has no promised value. See the [Disclaimer](disclaimer.md).
+No. It has no promised value and can go to zero. See the [Disclaimer](disclaimer.md).
 
 ## Help
 
 ### How do I contact the team?
 
-Email [ghost.youcog@gmail.com](mailto:ghost.youcog@gmail.com), or reach out on [X @Youcognito](https://x.com/Youcognito) or [t.me/YoucogChat](https://t.me/YoucogChat). The team will never DM you first asking for funds or keys.
+Email [ghost.youcog@gmail.com](mailto:ghost.youcog@gmail.com), or reach out on [X @Youcognito](https://x.com/Youcognito) or [t.me/YoucogChat](https://t.me/YoucogChat). The team will never DM you first, and never asks for your seed phrase, private key or funds. Anyone who does is not us.

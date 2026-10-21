@@ -11,7 +11,7 @@ Like Youcognito? You can send a small tip on Base. Tips help fund a Google Play 
 
 Prefer to send it yourself? Copy the donation address from the card. The official donation address is:
 
-`0xa959d8eeded6fb440ca584d1e87e581168bbf628`
+`0xa959D8EedeD6fB440cA584D1e87E581168bBF628`
 
 ## After you tip
 

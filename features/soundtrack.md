@@ -35,4 +35,4 @@ Listening to the whole remix unlocks the [100k listen boost](listen-boost.md).
 
 ## On SoundCloud
 
-*Youcognito Theme (Remix)* is on [SoundCloud](https://soundcloud.com/greentime1/youcognito-theme-remix). The [100k listen boost](listen-boost.md) plays through the SoundCloud player, so boost listens count as real plays there. The **Music** tile still plays the same remix from the app as quiet background music.
+*Youcognito Theme (Remix)* is on [SoundCloud](https://soundcloud.com/greentime1/youcognito-theme-remix). The [100k listen boost](listen-boost.md) uses a SoundCloud embed of the remix. The boost is about finishing the song, not about play counts. The **Music** tile still plays the same remix from the app as quiet background music.

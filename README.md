@@ -16,14 +16,14 @@ You ask **Youcog**, the spy ghost, a question. Youcog reads the web for you in *
 | --- | --- |
 | 🔎 **Research privately** | Ask a question, get a short brief with sources. Pages are read for you, not by your browser. [Learn more](features/private-research.md) |
 | 🔥 **Burn it** | One tap wipes the session from memory. [Learn more](features/burn.md) |
-| 🕵️ **Deep Mission** | Hold 10M YOUCOG (about $1) for longer reports with a risk score. [Learn more](features/deep-mission.md) |
-| 🚰 **Daily faucet** | Claim 840, 2,222 or 13,938 YOUCOG once a day, with streak bonuses. [Learn more](features/faucet.md) |
-| 🎧 **Listen boost** | Listen to the full *Youcognito Theme (Remix)* to boost today's claim to 100,000 YOUCOG. [Learn more](features/listen-boost.md) |
-| 👻 **The ghost** | An interactive ghost with tips, real buys and quick tiles. Swap in your own picture. [Learn more](features/ghost-banner.md) |
+| 🕵️ **Deep Mission** | Hold 10M YOUCOG for longer, sourced research reports. [Learn more](features/deep-mission.md) |
+| 🚰 **Daily faucet** | Claim a small YOUCOG gift once a day while supplies last (840, 2,222 or 13,938), with streak bonuses. [Learn more](features/faucet.md) |
+| 🎧 **Listen boost** | Finish the *Youcognito Theme (Remix)* to unlock a bigger faucet gift today, while supplies last. [Learn more](features/listen-boost.md) |
+| 👻 **The ghost** | An interactive ghost with tips and quick tiles. Swap in your own picture. [Learn more](features/ghost-banner.md) |
 | 🎮 **Youcognito Run** | A quick browser game. [Play it](https://remix.gg/g/youcognito-run) |
 
 {% hint style="info" %}
-New on October 18: the interactive ghost, the soundtrack player, the 100k listen boost, privacy and terms pages, and bigger text. See [What's live right now](getting-started/whats-live.md) and the [Changelog](project/changelog.md).
+New on October 20: Youcog now pops up to celebrate after a claim. See [What's live right now](getting-started/whats-live.md) and the [Changelog](project/changelog.md).
 {% endhint %}
 
 ## Start here
@@ -38,10 +38,11 @@ New on October 18: the interactive ghost, the soundtrack player, the 100k listen
 * All links: [linktr.ee/youcognito](https://linktr.ee/youcognito)
 * X: [@Youcognito](https://x.com/Youcognito)
 * Telegram: [t.me/Youcognito](https://t.me/Youcognito) (news) and [t.me/YoucogChat](https://t.me/YoucogChat) (chat)
+* Farcaster (join with Andy's invite link): [farcaster.xyz/~/code/PLSJOT](https://farcaster.xyz/~/code/PLSJOT)
 * Contact: [ghost.youcog@gmail.com](mailto:ghost.youcog@gmail.com)
 
-Youcognito was built by **Andy** with his agent **Youcog**. See [Credits](project/credits.md).
+Youcognito was built by **Youcog**, the AI agent, with **Andy**. See [Credits](project/credits.md).
 
 {% hint style="warning" %}
-Youcognito is an experiment. YOUCOG has no promised value, and nothing here is financial advice. Read the [Disclaimer](project/disclaimer.md).
+Youcognito is an experimental beta. YOUCOG has no promised value and can go to zero, and nothing here is financial advice. Read the [Disclaimer](project/disclaimer.md).
 {% endhint %}

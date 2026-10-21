@@ -18,7 +18,8 @@ Youcognito is configured with environment variables (secrets) and a few constant
 | `FAUCET_DAILY_CAP` | Max faucet claims per UTC day. | No |
 | `FAUCET_DAILY_TOKEN_BUDGET` | Max YOUCOG per UTC day, boosts included (default 500,000). | No |
 | `HOLDER_MIN_YOUCOG` | Deep Mission threshold (default 10,000,000). | No |
-| `RCST_CLAIM_AMOUNT`, `RCST_DAILY_CAP` | $RCST quote-cast amount (default 1,111) and daily cap. | No |
+| `RCST_CLAIM_AMOUNT`, `RCST_DAILY_CAP` | $RCST quote-cast amount (default 1,111) and daily cap (promotion ended). | No |
+| `FEEDBACK_DAILY_CAP` | Max survey thank-you gifts per UTC day (default 10). Separate from the faucet budget. | No |
 | `IMAGE_PER_USER_DAILY`, `IMAGE_GLOBAL_DAILY` | Art maker limits (defaults 1 and 10). | No |
 | `TTS_PER_USER_DAILY`, `TTS_GLOBAL_DAILY` | Grok Voice limits. | No |
 
@@ -31,6 +32,7 @@ Platform-provided variables used by the app builder template (`GROK_*`, `VITE_AU
 | `src/constants/listen.ts` | Boost amount (100,000), song length in seconds (200), tolerance, session grace, max starts per day, faucet balance floor (2,000,000), track title, SoundCloud URL |
 | `src/constants/media.ts` | Game URL, soundtrack file and volume, YouTube Short, tile thumbnails, project wallets hidden from buy slides |
 | `src/constants/site.ts` | Contact email, X, GitHub and Linktree links, site description |
+| `src/constants/feedback.ts` | Survey gift size, daily cap default, faucet balance floor for gifts (2,000,000), prior-claim requirement |
 | `src/constants/builderCode.ts` | Base Builder Codes |
 
 {% hint style="warning" %}

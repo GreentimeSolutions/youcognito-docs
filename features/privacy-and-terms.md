@@ -17,6 +17,8 @@ The pages in the app are the official versions. Here's the short summary.
 * Listen sessions for the boost: start and finish times
 * Your IP address, **only as a salted hash**, for rate limits and one-claim-per-day checks
 * Tips and holder checks: the transaction or signed message that proves them
+* Feedback survey answers, linked to your Farcaster ID or address so the thank-you gift is sent only once
+* Short-lived request logs at Vercel (hosting)
 
 **What isn't done:**
 
@@ -25,7 +27,7 @@ The pages in the app are the official versions. Here's the short summary.
 * Research sessions aren't kept. Your mission and the pages Youcog reads live in memory until you burn or refresh.
 * Your custom ghost picture and soundtrack setting stay in your browser.
 
-**Who helps run it:** Base (public network), Neon (database), xAI (research answers and voice), Vercel (hosting), Farcaster (sign-in in the Mini App), Black Forest Labs (art), GeckoTerminal and DexScreener (trade data), Google Fonts, and SoundCloud if the song plays through its player.
+**Who helps run it:** Base (public network), Neon (database), xAI (research answers and voice), Vercel (hosting), Farcaster (sign-in in the Mini App), Black Forest Labs (art), GeckoTerminal and DexScreener (trade data), Google Fonts, and SoundCloud if the song plays through its player. The feedback page also loads a small script from grok.com (the extensions script of the app builder the app was made with).
 
 Want a record removed? Email [ghost.youcog@gmail.com](mailto:ghost.youcog@gmail.com) from the account involved. On-chain transactions can't be erased by anyone.
 

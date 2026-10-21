@@ -2,6 +2,8 @@
 
 Youcognito works in any modern browser. Nothing to install, no account needed to look around.
 
+![Youcognito on a phone](../.gitbook/assets/home-mobile-v2.png)
+
 ## 1. Open the app
 
 Go to [youcognito.vercel.app](https://youcognito.vercel.app), or open **Youcognito** inside Farcaster (see [Web app or Farcaster Mini App](web-or-mini-app.md)).

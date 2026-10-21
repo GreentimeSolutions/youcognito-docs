@@ -2,6 +2,8 @@
 
 Finish the song to unlock a bigger faucet gift today, while supplies last. Listen to the whole **Youcognito Theme (Remix)** (3:20) and today's faucet claim becomes **100,000 YOUCOG**, whichever amount you pick.
 
+![The listen boost box](../.gitbook/assets/listen-boost-v2.png)
+
 {% hint style="warning" %}
 **Experimental beta.** YOUCOG has no promised value and can go to zero. Faucet gifts are not income and can stop at any time. Nothing here is financial, investment, legal or tax advice. Check your local laws.
 {% endhint %}

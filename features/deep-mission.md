@@ -2,6 +2,8 @@
 
 Deep Mission is a longer research report for **YOUCOG holders**: more sources, holder and liquidity analysis, a contract check, and a risk score.
 
+![Deep Mission locked card](../.gitbook/assets/deep-mission-v2.png)
+
 Reports are AI-generated research, not financial advice, and can be wrong.
 
 ## Who can use it

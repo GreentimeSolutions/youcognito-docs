@@ -2,6 +2,8 @@
 
 Share feedback. Answer **10 quick questions** about Youcognito (about 3 minutes) to help decide what gets built. As a thank-you, a one-time YOUCOG gift may be sent from the faucet while supplies last. YOUCOG has no promised value.
 
+![The feedback survey](../.gitbook/assets/feedback-survey-v2.png)
+
 {% hint style="warning" %}
 **Experimental beta.** The thank-you gift is a giveaway, not payment for your answers, not income and not a reward you are owed. YOUCOG has no promised value and can go to zero. The gift can change or stop at any time. Nothing here is financial, investment, legal or tax advice. Check your local laws.
 {% endhint %}

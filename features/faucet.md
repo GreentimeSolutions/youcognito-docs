@@ -2,8 +2,6 @@
 
 Claim a small YOUCOG gift once a day while supplies last. YOUCOG has no promised value. Consecutive days add a streak bonus. Amounts can change or stop.
 
-![Claim celebration](../.gitbook/assets/claim-celebration.png)
-
 {% hint style="warning" %}
 **Experimental beta.** YOUCOG has no promised value and can go to zero. Faucet gifts are not income and can stop at any time. Nothing here is financial, investment, legal or tax advice. Check your local laws.
 {% endhint %}

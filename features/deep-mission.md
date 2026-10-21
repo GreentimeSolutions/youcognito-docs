@@ -4,8 +4,6 @@ Deep Mission is a longer research report for **YOUCOG holders**: more sources, h
 
 Reports are AI-generated research, not financial advice, and can be wrong.
 
-![Deep Mission locked card](../.gitbook/assets/deep-mission.png)
-
 ## Who can use it
 
 Anyone whose wallet holds at least **10,000,000 YOUCOG**. Prices change and can go to zero. Only spend what you can afford to lose. You need to prove the wallet is yours. Holding is enough; nothing is spent or locked.
